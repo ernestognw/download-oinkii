@@ -22,8 +22,8 @@
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
-                <key>Oinkii</key>
-                <string>Educación Financiera</string>
+                <key>title</key>
+                <string>Oinkii</string>
             </dict>
         </dict>
     </array>
