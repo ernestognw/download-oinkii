@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://firebasestorage.googleapis.com/v0/b/oinkiimx.appspot.com/o/Oinkii.ipa?alt=media&token=b56a4f39-b870-4fc1-a3b6-f159df16afa2</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>org.reactjs.native.example.Oinkii</string>
+                <key>bundle-version</key>
+                <string>1.0.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>Oinkii</key>
+                <string>Educación Financiera</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
+    
