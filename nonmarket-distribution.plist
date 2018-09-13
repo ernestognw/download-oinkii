@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/ernestognw/oinkii-download/Oinkii.ipa</string>
+                    <string>https://firebasestorage.googleapis.com/v0/b/oinkiimx.appspot.com/o/Oinkii.ipa?alt=media&token=b56a4f39-b870-4fc1-a3b6-f159df16afa2</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -22,7 +22,7 @@
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
-                <key>title</key>
+                <key>Oinkii</key>
                 <string>Educación Financiera</string>
             </dict>
         </dict>
